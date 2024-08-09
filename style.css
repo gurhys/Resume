@@ -1,0 +1,55 @@
+html{
+    background-color: rgb(227, 245, 211);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(70, 133, 133);
+    font-size: 100px;
+    font-style: italic;
+    font-weight: normal;
+    font-family:'Whisper',cursive;
+}
+
+#title{
+    background-color: antiquewhite;
+    padding: 4px;
+}
+
+h2 {
+    color:indigo;
+    font-size: 25px;
+    font-style: oblique;
+    font-family:'Playfair';
+}
+
+h3{
+    color:rgb(83, 16, 124);
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: normal
+}
+
+p{
+    font-size: 15px;
+    font-weight: 500;
+    text-align: justify;
+}
+
+a {
+    color:rgb(240, 93, 196);
+}
+
+hr { 
+    color:brown;
+    font-weight: bolder;
+}
+
+
+#info{
+    text-align: center;
+    background-color:antiquewhite;
+    padding: 20px;
+    border: 1px solid black;
+}
+
